@@ -35,15 +35,10 @@ No installation, no external software, and no programming knowledge required. Ju
 
 ## 🚀 How to Use
 
-### Method 1 — Download
-
 1. Download the `.bat` file from this repository.
 2. Copy the `.bat` file into your **Downloads** folder.
 3. Double-click the `.bat` file.
 4. The script will automatically create the required folders.
 5. Your files will be organized by category.
 
-### Method 2 — Clone the Repository
 
-```bash
-git clone https://github.com/YOUR-USERNAME/Arrange-Download-Folder-Category-Wise.git
